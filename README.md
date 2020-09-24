@@ -3,10 +3,10 @@
     <img width="60" height="60" src="https://avatars3.githubusercontent.com/u/13659401?s=460&u=cf016887837b51c08d67aff2125d08c7684adfca&v=4" />
   </a>
   <br>
-  <a href="mailto:hello@hugomalatrait.com">
+  <a href="mailto:hello@hugomalatrait.com" target="_blank">
     <img src="./icons/mail.svg" width="20">
   </a>
-  <a href="https://hugomalatrait.com">
+  <a href="https://hugomalatrait.com" target="_blank">
     <img src="./icons/globe-alt.svg" width="20">
   </a>
   <br>
@@ -40,19 +40,11 @@ streaming platform, cloud computing, blockchains and decentralization.
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
-<!--
-<br>
-<h3>Where to find me :</h3>
-<br>
+<!--<br>
 <p>
-<a href="https://github.com/thmsgbrt" target="_blank">
-<img alt="Github" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="https://twitter.com/fafifoof" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://hugomalatrait.com/">
+    <img src="https://github-readme-stats.vercel.app/api?username=fafifox&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=false" />
+  </a>
 </p>-->
+
 </div>
